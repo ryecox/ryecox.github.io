@@ -1,0 +1,21 @@
+# Site settings
+title: Vicissitudinous Expositions
+header-img: img/home-bg.png
+email: ryecox@gmail.com
+copyright_name: ryecox
+description: > # this means to ignore newlines until "baseurl:"
+  Explorations in technology, business, culture, and personal life
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: ryanelliscox
+github_username:  ryecox
+learn_profile: ryecox
+email_username: ryecox@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
