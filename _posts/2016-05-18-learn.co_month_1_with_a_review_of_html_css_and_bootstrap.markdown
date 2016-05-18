@@ -17,11 +17,11 @@ In my first post “The Computer As a Workshop”, I talked a little bit about m
 
 *The Community *
 
-When I was working on the Intro to Ruby course that is used for pre-admissions assessment, I had a few questions that I couldn’t answer on my own. I jumped in the chat window, and each time, within one minute, another student further along in the program or a staff member would jump on to help me figure it out without just giving the answers away. Nobody writes the code for you since the challenge of working through the problem is an asset that must be gained— they help you troubleshoot more effectively, which is an awesome force to have as you move through the program.
+When I was working on the Intro to Ruby course that is used for pre-admissions assessment, I had a few questions that I couldn’t answer on my own. I jumped in the chat window, and each time, within one minute, another student further along in the program or a staff member would jump on to help me figure it out without just giving the answers away. Nobody writes the code for you since the challenge of working through the problem is an asset that must be gained. They help you troubleshoot more effectively, which is an awesome force to have as you move through the program.
 
 Another student jumped in a Google Hangout with me and helped me figure out a piece of code because it helped him become a better programmer. Regularly, the staff help me define my own thought process rather than imposing theirs on me, which allows me to write code that is becoming simpler and more efficient as I move forward.
 
-The honest truth is that you can learn how to code in many different places for free, and the information is free. If you are able to do this, that’s awesome. If you benefit from real-time support and like to talk things through with real humans as you are facing the problem, then this program is worth the price. Just make sure you actually need that type of support before making the investment. Through years of trial and error, I knew I needed a community.  A lot of the pain of configuration can be solved through a quick chat with someone who has been there before.
+The honest truth is that you can learn how to code in many different places for free, and the information is free. If you are able to do this, that’s awesome. If you benefit from real-time support and like to talk things through with real humans as you are facing the problem, then this program is worth the price. Just make sure you actually need that type of support before making the investment. Through years of trial and error, I knew I needed a community. A lot of the pain of configuration can be solved through a quick chat with someone who has been there before.
 
 **CSS & HTML**
 
