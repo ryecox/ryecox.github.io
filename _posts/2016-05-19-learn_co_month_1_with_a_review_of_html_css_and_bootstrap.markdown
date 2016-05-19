@@ -39,13 +39,12 @@ As a practical example, one of my assignments for Learn.co is to design and depl
 The only way my understanding of these rules are rote memorization of which classes supersede others. I have a few graphics and links that I found elsewhere that you can view here: 
 
 * [Graphical Intro to CSS Specificity](http://cssspecificity.com/#) 
-![A Graphical Guide to CSS](http://cssspecificity.com/#)
 * [Mozilla’s guide to Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) 
 * [CSS Tricks](https://css-tricks.com/specifics-on-css-specificity/)
 * [A calculator you can use to determine the specificity your CSS](https://specificity.keegan.st/)
 * [The W3 School’s Guide to CSS](http://www.w3schools.com/css/css_syntax.asp)
 * [Fish Specificity for you to hang on your wall](https://specificity.keegan.st/)
-![Fish Specificity](https://specificity.keegan.st/)
+
 
 I’ve made a lot of improvement, and this just takes time. Read as much as you can, try it out, and when you hit a roadblock, take a short break, reset, and get back into it when you clear your head. You have to dive into the details for it to make sense.
 
