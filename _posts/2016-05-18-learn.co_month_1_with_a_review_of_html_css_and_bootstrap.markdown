@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learn co Month 1: with a review of HTML, CSS, and Bootstrap 
+title:  Learn.co Month 1: with a review of HTML, CSS, and Bootstrap 
 date:   2016-05-18 18:43:15 -0400
 ---
 
