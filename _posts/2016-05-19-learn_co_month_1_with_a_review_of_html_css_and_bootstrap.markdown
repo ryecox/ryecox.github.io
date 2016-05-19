@@ -15,13 +15,14 @@ In my first post “The Computer As a Workshop”, I talked a little bit about m
 
  At various points in the last five years, I made lukewarm commitments to learn how to build webpages and web-based applications, but never really followed through. I tried reading tutorials, watching videos, taking free courses from CodeAcademy (which is great) and other sites, but a bad system configuration, a lack of time, or some other roadblock always took me off track, and I eventually I gave up every time. Nobody likes a quitter, and I don’t want to be one, so I did my best to identify my pain points and to do my best to eliminate them, and in my case, Learn.co does that by having on demand help available most of the time. My interaction with the community and the staff has been awesome so far, and having that strength behind me makes it easier to dive into the code and figure out what’s actually going on.
 
-*The Community *
+*The Community* 
 
 When I was working on the Intro to Ruby course that is used for pre-admissions assessment, I had a few questions that I couldn’t answer on my own. I jumped in the chat window, and each time, within one minute, another student further along in the program or a staff member would jump on to help me figure it out without just giving the answers away. Nobody writes the code for you since the challenge of working through the problem is an asset that must be gained. They help you troubleshoot more effectively, which is an awesome force to have as you move through the program.
 
 Another student jumped in a Google Hangout with me and helped me figure out a piece of code because it helped him become a better programmer. Regularly, the staff help me define my own thought process rather than imposing theirs on me, which allows me to write code that is becoming simpler and more efficient as I move forward.
 
 The honest truth is that you can learn how to code in many different places for free, and the information is free. If you are able to do this, that’s awesome. If you benefit from real-time support and like to talk things through with real humans as you are facing the problem, then this program is worth the price. Just make sure you actually need that type of support before making the investment. Through years of trial and error, I knew I needed a community. A lot of the pain of configuration can be solved through a quick chat with someone who has been there before.
+
 
 **CSS & HTML**
 
@@ -37,12 +38,14 @@ As a practical example, one of my assignments for Learn.co is to design and depl
 
 The only way my understanding of these rules are rote memorization of which classes supersede others. I have a few graphics and links that I found elsewhere that you can view here: 
 
-	•	Graphical Intro to CSS Specificity 
-	•	Mozilla’s guide to Specificity 
-	•	CSS Tricks
-	•	A calculator you can use to determine the specificity your CSS
-	•	The W3 School’s Guide to CSS
-	•	Fish Specificity for you to hang on your wall
+* [Graphical Intro to CSS Specificity](http://cssspecificity.com/#) 
+![A Graphical Guide to CSS](http://cssspecificity.com/#)
+* [Mozilla’s guide to Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) 
+* [CSS Tricks](https://css-tricks.com/specifics-on-css-specificity/)
+* [A calculator you can use to determine the specificity your CSS](https://specificity.keegan.st/)
+* [The W3 School’s Guide to CSS](http://www.w3schools.com/css/css_syntax.asp)
+* [Fish Specificity for you to hang on your wall](https://specificity.keegan.st/)
+![Fish Specificity](https://specificity.keegan.st/)
 
 I’ve made a lot of improvement, and this just takes time. Read as much as you can, try it out, and when you hit a roadblock, take a short break, reset, and get back into it when you clear your head. You have to dive into the details for it to make sense.
 
