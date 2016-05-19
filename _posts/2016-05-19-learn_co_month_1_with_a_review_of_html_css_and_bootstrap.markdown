@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn.co Month 1: with a review of HTML, CSS, and Bootstrap "
-date:   2016-05-19 16:29:32 +0000
+date:   2016-05-19 12:29:32 -0400
 ---
 
 
@@ -55,3 +55,4 @@ Bootstrap was developed as a style guide at Twitter to help their developers qui
 One of the only criticisms I have seen of the framework is that, because of its ease of use and popularity in the web development community, many web pages end up looking the same because the same toolbox is available to everyone. This creative issue can be overcome with an awareness that the paradigm created by Bootstrap exists, and that rules are okay to be broken if you have a good reason to do so.
 
 Breaking these rules comes back to specificity. As a best practice, it’s best not to modify the CSS code in Bootstrap, but rather to create a new file to override the Bootstrapped file with your own CSS code by using the rules of specificity. The most difficult thing for beginners who don’t entirely grasp specificity is learning how to override the defaults to customize the pages. Feel free to use the resources above to help you move forward, and good luck!
+
